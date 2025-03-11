@@ -1,0 +1,4 @@
+name: "Holi"
+identifier: "editor-holi-starter"
+type: 'python'
+build: true
