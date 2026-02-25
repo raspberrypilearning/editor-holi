@@ -18,7 +18,7 @@ line_highlights: 4
 from p5 import *
 from burst import *
 
-num_circles=15  # Number of circles
+num_circles = 15  # Number of circles
 
 --- /code ---
 

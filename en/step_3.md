@@ -18,9 +18,9 @@ line_highlights: 5-6
 from p5 import *
 from burst import *
 
-num_circles=15  # Number of circles
-min_radius=2  # Smallest circle size
-max_radius=8  # Largest circle size
+num_circles = 15  # Number of circles
+min_radius = 2  # Smallest circle size
+max_radius = 8  # Largest circle size
 
 
 --- /code ---
