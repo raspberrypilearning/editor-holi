@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">🎉 You did it! </h2>
 
---- task ---
+### Step 1
 Congratulations on completing the project!
 
 You can now:
@@ -10,5 +10,3 @@ You can now:
 🟢 Create amazing colours!
 
 What will you do next?
-
---- /task ---

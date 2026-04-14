@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Add more circles</h2>
 
---- task ---
+### Step 1
 
 Change the value of the num_circles variable to 15.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

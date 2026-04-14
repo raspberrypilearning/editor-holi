@@ -4,12 +4,11 @@ Holi is a major Hindu festival celebrated as the Festival of Colours, Love and S
 
 Let's play with some colours in Python.
 
---- task ---
+### Step 1
 
 ➡️ Click 'Run' 
 ➡️ Click the black square in 'Visual output'
 
---- /task ---
 
 You will see colours!
 

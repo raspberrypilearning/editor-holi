@@ -1,0 +1,4 @@
+name: "Holi complete"
+identifier: "editor-holi-complete"
+type: "python"
+build: true

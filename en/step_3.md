@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Bigger circles</h2>
 
---- task ---
+### Step 1
 
 Experiment with different minimum and maximum values for the radius of the circles.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
