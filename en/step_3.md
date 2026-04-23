@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Bigger circles</h2>
 
-### Step 1
-
 Experiment with different minimum and maximum values for the radius of the circles.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 <div class="c-project-code">
 --- code ---
@@ -25,3 +24,7 @@ max_radius = 8  # Largest circle size
 --- /code ---
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Add more circles</h2>
 
-### Step 1
-
 Change the value of the num_circles variable to 15.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 <div class="c-project-code">
 --- code ---
@@ -22,3 +21,7 @@ num_circles = 15  # Number of circles
 --- /code ---
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

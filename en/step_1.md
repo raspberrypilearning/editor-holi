@@ -2,9 +2,9 @@
 
 Holi is a major Hindu festival celebrated as the Festival of Colours, Love and Spring.
 
-Let's play with some colours in Python.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 1
+Let's play with some colours in Python.
 
 ➡️ Click 'Run' 
 ➡️ Click the black square in 'Visual output'
@@ -13,3 +13,7 @@ Let's play with some colours in Python.
 You will see colours!
 
 Click the > arrow for the next challenge.
+
+## Now run your code
+
+Confirm the observable result.
