@@ -27,4 +27,4 @@ max_radius = 8  # Largest circle size
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the circles now appear in a wider range of sizes.

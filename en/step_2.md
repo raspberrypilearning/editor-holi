@@ -24,4 +24,4 @@ num_circles = 15  # Number of circles
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that more coloured circles appear.

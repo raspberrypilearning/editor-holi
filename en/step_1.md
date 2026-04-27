@@ -16,4 +16,4 @@ Click the > arrow for the next challenge.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run**, then click the black square in **Visual output**, and check that colours appear.

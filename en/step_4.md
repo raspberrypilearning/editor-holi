@@ -14,4 +14,4 @@ What will you do next?
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that changing the variables gives you a different burst of colours.
