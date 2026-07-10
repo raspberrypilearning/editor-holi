@@ -1,8 +1,6 @@
-<h2 class="c-project-heading--task">🎉 You did it! </h2>
+## 🎉 You did it!
 
 Congratulations on completing the project!
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 You can now:
 
